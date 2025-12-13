@@ -34,5 +34,11 @@
     "geographicAreaCode": {
       "$ref": "geographicAreaCode.json"
     }
-  }
+  },
+  "required":[
+    "type",
+    "gndIdentifier",
+    "id",
+    "preferredName"
+  ]
 }
