@@ -39,6 +39,7 @@
     "type",
     "gndIdentifier",
     "id",
-    "preferredName"
+    "preferredName",
+    "@context"
   ]
 }
